@@ -79,6 +79,7 @@
 10. Lets create a remote repository on github. (Please signup on github.com)
     Create a new `PUBLIC` repository.
     DO NOT CREATE README file or LICENCE 
+    NOTE: Your GITHUB username (email) MUST MATCH with "user.email" configuration you have added in local git installation.
 
 11. Copy the repository URL (of newly created github repository) and add new remote "origin" to local repository.
 
