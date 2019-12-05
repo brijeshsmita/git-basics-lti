@@ -75,3 +75,16 @@
     1 file changed, 29 insertions(+)
     create mode 100644 Readme.md
     ```
+
+10. Lets create a remote repository on github. (Please signup on github.com)
+    Create a new `PUBLIC` repository.
+    DO NOT CREATE README file or LICENCE 
+
+11. Copy the repository URL (of newly created github repository) and add new remote "origin" to local repository.
+
+    ```cmd
+    $ git remote add origin <<PASTE-URL-REMOTE-REPO>>
+    $ git push -u origin master
+    ```
+
+12. Refresh the GitHub repository page in web browser!
